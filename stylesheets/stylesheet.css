@@ -57,7 +57,7 @@ a {
   color: #000;
   text-align: center;
   background-color: #f90;
-  background-image:url (lhttps://www.saucyspork.com/wp-content/uploads/2015/04/Cheeseburger-Spring-Rolls-2).jpginear-gradient(120deg, #f00, #f90); }
+  background-image:url(http://www.saucyspork.com/wp-content/uploads/2015/04/Cheeseburger-Spring-Rolls-2.jpg);
 
 @media screen and (min-width: 64em) {
  /*edited the background image*/
