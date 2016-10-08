@@ -52,11 +52,11 @@ a {
     .btn + .btn {
       margin-top: 1rem;
       margin-left: 0; } }
-
+/*changed the color and the background*/
 .page-header {
   color: #fff;
   text-align: center;
-  background-color: #159957;
+  background-color: #00cc00;
   background-image: linear-gradient(120deg, #155799, #159957); }
 
 @media screen and (min-width: 64em) {
